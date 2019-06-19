@@ -1,3 +1,5 @@
-# NicholasCage
-Make all your images into nicolas cage
+# NicolasCage
+Make all your images into nicolas cage.
 Its great
+Try it
+
